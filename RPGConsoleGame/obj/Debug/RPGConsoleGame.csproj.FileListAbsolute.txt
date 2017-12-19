@@ -1,0 +1,7 @@
+C:\Users\Dx777\Source\Repos\RPGConsoleGame\RPGConsoleGame\RPGConsoleGame\bin\Debug\RPGConsoleGame.exe.config
+C:\Users\Dx777\Source\Repos\RPGConsoleGame\RPGConsoleGame\RPGConsoleGame\bin\Debug\RPGConsoleGame.exe
+C:\Users\Dx777\Source\Repos\RPGConsoleGame\RPGConsoleGame\RPGConsoleGame\bin\Debug\RPGConsoleGame.pdb
+C:\Users\Dx777\Source\Repos\RPGConsoleGame\RPGConsoleGame\RPGConsoleGame\obj\Debug\RPGConsoleGame.csprojResolveAssemblyReference.cache
+C:\Users\Dx777\Source\Repos\RPGConsoleGame\RPGConsoleGame\RPGConsoleGame\obj\Debug\RPGConsoleGame.csproj.CoreCompileInputs.cache
+C:\Users\Dx777\Source\Repos\RPGConsoleGame\RPGConsoleGame\RPGConsoleGame\obj\Debug\RPGConsoleGame.exe
+C:\Users\Dx777\Source\Repos\RPGConsoleGame\RPGConsoleGame\RPGConsoleGame\obj\Debug\RPGConsoleGame.pdb
